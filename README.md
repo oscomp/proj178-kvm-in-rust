@@ -23,11 +23,14 @@
 - 请遵循“20212国大学生操作系统比赛”的章程和技术方案要求
 
 ### 项目导师
-
+彭浩
+email flyingpeng@tencent.com  
+githubid flying-122
 
 ### 难度
 
-中等 ~ 高等
+中等 ~ 高
+等
 
 ### 特征
 
